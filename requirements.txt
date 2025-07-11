@@ -1,7 +1,5 @@
 aiohttp
-aiogram==3.1.1
+aiogram
+certifi
 python-dotenv
-requests
-tqdm
-openai
-websockets
+wheel
